@@ -1,0 +1,5 @@
+package com.example.nagaonhighschool
+
+class ModelClassList {
+    var classno: String? = null
+}

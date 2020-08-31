@@ -1,0 +1,11 @@
+package com.example.nagaonhighschool
+
+public class Model {
+    public var classString : String
+        get() {
+            return classString
+        }
+    set(value) {
+        this.classString = value
+    }
+}
